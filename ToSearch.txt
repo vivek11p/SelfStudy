@@ -1,0 +1,16 @@
+1.Oops concepts with examples used in project? 
+2.Difference between encapsulation and data binding?
+3.What is polymorphism, expalin with real-time scenario?
+4.Scenario based question on Abstraction 
+5.Working of Hashset
+6.What is concurrency? How to solve this problem?
+7.What happen if run is called directly without calling start?
+8.What is encapsulation, with real-time example?
+9.What is data binding, with real-time example?
+10.What is override explain with real-time example?
+11.Explain interface/abstract, which is best why?
+12.How to skip finally block without doing system.exit()?
+13.Should we catch throwable in try catch and why?
+14.How can you find memory leak in your code?
+
+
